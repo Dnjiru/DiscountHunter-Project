@@ -63,3 +63,12 @@ input[type=button] {
   background-size: cover;
   color: whitesmoke;
 }
+
+.mailchimp {
+  text-align: center;
+  color: whitesmoke;
+  background-image: url("../img/slider7.jpg");
+  background-size: cover;
+
+
+}
