@@ -1,3 +1,6 @@
+body {
+  font-family: 'Forum', cursive;
+}
 .section6 {
   text-align: center;
   background-image: url("../img/slider7.jpg");
@@ -8,6 +11,7 @@
   margin-left: -10%;
   margin-right: -10%;
   padding: 80px;
+  margin-top: 20px;
 }
 
 .form-group {
@@ -69,6 +73,9 @@ input[type=button] {
   color: whitesmoke;
   background-image: url("../img/slider7.jpg");
   background-size: cover;
+  margin-left: -10%;
+  margin-right: -10%;
+  
 
 
 }
